@@ -1,12 +1,12 @@
-<!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
+<!-- ## Hi! I'm Biraj Rai 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://media.discordapp.net/attachments/710425657003212810/933327129305821184/circle.png">  
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="">  
 
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Igor Kowalczyk
 > This is the place where I opensource stuff and break things :rofl:<br>
 
-[![Discord](https://img.shields.io/discord/666599184844980224?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.github.io/r/discord-server)
-[![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/IgorKowalczyk?tab=followers)
+[![Discord](https://img.shields.io/discord/891993824212168704?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://igorkowalczyk.github.io/r/discord-server)
+[![GitHub followers](https://img.shields.io/github/followers/igorkowalczyk?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/birajrai?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Figorkowalczyk.github.io)](https://igorkowalczyk.github.io)
 [![Website](https://komarev.com/ghpvc/?username=igorkowalczyk&style=flat-square&color=333333&label=Views)](https://igorkowalczyk.github.io)
