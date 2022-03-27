@@ -59,20 +59,10 @@ Over these years I have learned
  * PHP, Python, Bash (Medium/Low)
  * And many other languages and libraries!
 
-### 📕 Blog Posts
-<!-- START_SECTION:feed -->
-   - [Niebezpieczne pliki](https://igorkowalczyk.github.io/blog/internet/2020/07/27/Niebezpieczne-pliki) `[26/07/2020]`
-- [Bezpieczeństwo w sieci - Nasze dane](https://igorkowalczyk.github.io/blog/internet/2020/01/22/Bezpiecze%C5%84stwo-w-sieci-nasze-dane) `[21/01/2020]`
-- [Dlaczego Jquery jest złe?](https://igorkowalczyk.github.io/blog/internet/programowanie/javascript/2020/01/19/Dlaczego-Jquery-jest-z%C5%82e) `[18/01/2020]`
-- [Jasna i ciemna strona internetu](https://igorkowalczyk.github.io/blog/internet/2019/12/28/Jasna-i-ciemna-strona-internetu) `[27/12/2019]`
-- [Pierwszy wpis, nowy blog](https://igorkowalczyk.github.io/blog/offtop/2019/12/22/Pierwszy-wpis,-nowy-blog) `[21/12/2019]`
-<!-- Posts last updated on Sun Jan 30 2022 17:22:30 GMT+0000 (Coordinated Universal Time) -->
-   <!-- END_SECTION:feed -->
-   
 ### 📊 Stats
 
-<a href="https://github.com/igorkowalczyk/igorkowalczyk">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkowalczyk&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
+<a href="https://github.com/birajrai/birajrai">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birajrai&title_color=ffffff&text_color=c9cacc&hide=html&icon_color=2bbc8a&bg_color=161b22&layout=compact&hide_border=true"/>
 </a>
 <br><br>
 
@@ -82,7 +72,7 @@ Over these years I have learned
 | **🏆 Contributions in 2022:** | **381**|
 | **📦 Github Storage:** | **99.1 kB used**|
 | **📝 Total lines of code:** | **1.8 million**|
-| **📚 Public Repositories:** | **16** |
+| **📚 Public Repositories:** | **14** |
 | **🔑 Private Repositories:** | **only 1** |
 <details><summary>✨ Show more stats</summary>
 
@@ -126,11 +116,6 @@ Linux                    25 hrs 41 mins      ███████████�
 <!-- Wakatime stats generated at 2022-03-27 17:40:50.768367 -->
 <!--END_SECTION:waka-->
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
- `[03/27 17:29]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `5` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[03/27 15:06]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/27 14:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `7` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[03/27 10:44]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/27 10:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[03/27 10:13]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `2` commits in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/27 10:01]` <a href="https://github.com/igorkowalczyk" title="❗️"><img alt="❗️" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/issue.png" align="top" height="18"></a> Closed issue [`#50`](https://github.com//IgorKowalczyk/majo.exe/issues/50 'Issue By bot start') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/27 10:01]` <a href="https://github.com/igorkowalczyk" title="🗣"><img alt="🗣" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/comment.png" align="top" height="18"></a> Commented on [`#50`](https://github.com//IgorKowalczyk/majo.exe/issues/50 'Issue By bot start') in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/27 09:56]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[03/27 08:51]` <a href="https://github.com/igorkowalczyk" title="⭐"><img alt="⭐" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/star.png" align="top" height="18"></a> Starred [nicholastay/passport-discord](https://github.com/nicholastay/passport-discord)<br>`[03/27 08:36]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `21` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[03/26 20:50]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/26 20:34]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `4` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)<br>`[03/26 19:22]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `1` commit in [IgorKowalczyk/majo.exe](https://github.com/IgorKowalczyk/majo.exe)<br>`[03/26 19:14]` <a href="https://github.com/igorkowalczyk" title="📝"><img alt="📝" src="https://github.com/igorkowalczyk/igorkowalczyk/raw/master/src/images/icons/commit.png" align="top" height="18"></a> Made `9` commits in [IgorKowalczyk/igorkowalczyk](https://github.com/IgorKowalczyk/igorkowalczyk)
- <!--END_SECTION:activity-->
-
 ---
 
-<p align="right"><img src="https://keybase.io/images/icons/icon-keybase-logo-48@2x.png" width="18px"> <a href="https://keybase.io/igorkowalczyk">Keybase: @igorkowalczyk</a></p>
+<p align="right"><img src="" width="18px"> <a href="">@neppixel</a></p>
