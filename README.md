@@ -7,7 +7,7 @@
 
 [![Discord](https://img.shields.io/discord/891993824212168704?color=333&label=Chat&logo=discord&logoColor=fff&style=flat-square)](https://discord.gg/tykB6PZEF5)
 [![GitHub followers](https://img.shields.io/github/followers/birajrai?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/birajrai?tab=followers)
-[![Twitter Follow](https://img.shields.io/twitter/follow/majonezexe?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/majonezexe)
+[![Twitter Follow](https://img.shields.io/twitter/follow/neppixel?color=333&label=Follow&logo=twitter&logoColor=fff&style=flat-square)](https://twitter.com/neppixel)
 [![Website](https://img.shields.io/website?down_color=333&down_message=off&label=Website&logo=firefox&logoColor=fff&style=flat-square&up_color=333&up_message=up&url=https%3A%2F%2Fbirajrai.tk)](https://birajrai.tk)
 [![Website](https://komarev.com/ghpvc/?username=birajrai&style=flat-square&color=333333&label=Views)](https://birajrai.tk)
 <br><br><br>
