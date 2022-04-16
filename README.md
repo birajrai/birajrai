@@ -1,6 +1,6 @@
 <!-- ## Hi! I'm Biraj Rai 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="">  
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" src="https://birajrai.tk/assets/img/profile.gif">  
 
 ## <img src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif" width="27px"> Hi! I'm Biraj Rai
 > This is the place where I opensource stuff and break things :rofl:<br>
