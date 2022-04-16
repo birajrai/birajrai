@@ -100,4 +100,4 @@ Linux                    25 hrs 41 mins      ███████████�
 
 ---
 
-<p align="right"><img src="" width="18px"> <a href="">@neppixel</a></p>
+<p align="right"><img src="https://birajrai.tk/assets/img/profile.gif" width="18px"> <a href="https://birajrai.tk">@neppixel</a></p>
