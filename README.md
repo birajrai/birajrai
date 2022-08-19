@@ -1,5 +1,5 @@
 <h3 align="center">A passionate developer from Nepal</h3>
-- 🔭 I’m currently working on [My Website](https://official-website-of-k2k2ff.k2k2ffofficial.repl.co/)
+- 🔭 I’m currently working on [My Website](https://birajrai.blogspot.com/)
 - 🌱 I’m currently learning  **Node.js & Java**
 - 👯 I’m looking to collaborate on some projects
 - 🤔 I’m looking for help with ...
