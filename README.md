@@ -1,12 +1,1 @@
-<h3 align="center">A passionate developer from Nepal</h3>
-- 🔭 I’m currently working on [My Website](https://birajrai.blogspot.com/)
-- 🌱 I’m currently learning  **Node.js & Java**
-- 👯 I’m looking to collaborate on some projects
-- 🤔 I’m looking for help with ...
-- 👨‍💻 All of my projects are available at [https://github.com/birajrai](https://github.com/birajrai)
-- 📝 I regularly write articles on [birajrai.blogspot.com](https://birajrai.blogspot.com)
-- 📫 How to reach me **birajrai.official@gmail.com**
-- 📄 Know about my experiences [https://github.com/birajrai](https://github.com/birajrai)
-- 💬 Ask me about **My Projects**
-- 😄 Pronouns: **He / Him**
-- ⚡ Fun fact: **I like you**
+
