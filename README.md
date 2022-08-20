@@ -1,11 +1,11 @@
 ## Hello there! <img src="wave.gif" width="30px" height="30px">
 
-I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 10 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
+I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 5 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
-- 🔭 I’m currently working on: [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client)
-- 🌱 I’m currently learning: ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+- 🔭 I’m currently working on: [Neppixel Client](https://github.com/NeppixelTeam/Neppixel-Client)
+- 🌱 I’m currently learning: ![Java](https://img.shields.io/badge/Java-%236DB33F.svg?style=flat-square&logo=java&logoColor=white)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
-- 📫 How to reach me: milutinke [at] gmx.com
+- 📫 How to reach me: contact@neppixel.xyz
 
 ## 🚀💻 Technologies & Tools
 
