@@ -60,5 +60,6 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ## ⚙️ Git Stats
 
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=birajrai&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=birajrai&langs_count=5&layout=compact&theme=tokyonight">
+<a href="http://www.github.com/nottmayank"><img src="https://activity-graph.herokuapp.com/graph?username=birajrai&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=birajrai.birajrai)
