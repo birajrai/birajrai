@@ -11,6 +11,7 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
+![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -38,7 +39,6 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 
 #### Utilized (Not mastered completely, learned just enough to utilize):
 
-![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=AEDDFF)
