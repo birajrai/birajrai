@@ -48,7 +48,6 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
 ![Pawn](https://img.shields.io/badge/AMX-Pawn-blue?style=flat-square)
-
 ![Source Pawn](https://img.shields.io/badge/Source-Pawn-orange?style=flat-square)
 
 #### Looking forward to learn:
