@@ -5,6 +5,7 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 - 🔭 I’m currently working on: [The Pirates Development](https://github.com/thepirates-development)
 - 🌱 I’m currently learning: ![Java](https://img.shields.io/badge/Java-%236DB33F.svg?style=flat-square&logo=java&logoColor=white)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
+- 👾 I'm currently busy with my personal works so cya soon!
 - 📫 How to reach me: contact@neppixel.xyz
 
 ## 🚀💻 Technologies & Tools
@@ -34,7 +35,7 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
 ![Vue Press](https://img.shields.io/badge/Vue-Press-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/-Mongo%20DB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 
 #### Utilized (Not mastered completely, learned just enough to utilize):
@@ -47,7 +48,7 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
 ![Pawn](https://img.shields.io/badge/AMX-Pawn-blue?style=flat-square)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
+
 ![Source Pawn](https://img.shields.io/badge/Source-Pawn-orange?style=flat-square)
 
 #### Looking forward to learn:
@@ -56,6 +57,7 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=lat-square&logo=redux&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 ## ⚙️ Git Stats
 
