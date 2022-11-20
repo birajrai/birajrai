@@ -2,8 +2,8 @@
 
 I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 5 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
-- 🔭 I’m currently working on: [The Pirates Development](https://github.com/thepirates-development)
-- 🌱 I’m currently learning: ![Java](https://img.shields.io/badge/Java-%236DB33F.svg?style=flat-square&logo=java&logoColor=white)
+- 🔭 I’m currently working on: [School Website](https://github.com/birajrai/schooladhunik)
+- 🌱 I’m currently learning: ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
 - 👾 I'm currently busy with my personal works so cya soon!
 - 📫 How to reach me: contact@neppixel.xyz
