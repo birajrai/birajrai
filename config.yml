@@ -4,28 +4,17 @@
 # All defaults values can be overriden per host basis
 hosts:
   # Example / test root domain
-  - name: birajrai.tk
-    title: Biraj Rai
+  - name: meropatra.com
+    title: Mero Patra
   - name: gaurav87565.tk
     title: Gaurav Uchil
-
-  # Example / test ip with port using ncat
-  - name: "8.8.8.8"
-    title: Google DNS
-    port: 53
-    use: ncat
-
-
-  # Example / unavailable website
-  - name: unavailable.website.com
-    title: Unavailable website
 
 # Site configuration
 site:
   # Title
   title: Biraj Rai
   # Favicon / logo
-  favicon: https://simon.lecoq.io/src/icon.png
+  favicon: https://birajrai.github.io/favicon.io
   # Refresh rate of status images for client
   refresh_rate_sec: 120
 
