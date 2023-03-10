@@ -3,10 +3,10 @@
 I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 5 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
 - 🔭 I’m currently working on: Private Projects
-- 🌱 I’m currently learning: ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+- 🌱 I’m currently learning: ![Nothing](https://birajrai.github.io/)
 - 👯 I’m looking to collaborate on: Open Source projects which make life easier
-- 👾 I'm currently busy with my personal works so cya soon!
-- 📫 How to reach me: support@birajrai.tk
+- 👾 I'm currently working on ![Mero Patra](https://meropatra.com)
+- 📫 How to reach me: birajrai.official@gmail.com
 
 ## 🚀💻 Technologies & Tools
 
@@ -38,9 +38,9 @@ I am a self-taught programmer who is currently a student. I've sailed into the w
 #### Looking forward to learn:
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-<!-- ## ⚙️ Git Stats
+ ## ⚙️ Git Stats
 
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=birajrai&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=birajrai&langs_count=5&layout=compact&theme=tokyonight">
-<a href="http://www.github.com/nottmayank"><img src="https://activity-graph.herokuapp.com/graph?username=birajrai&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+<a href="http://www.github.com/nottmayank"><img src="https://activity-graph.herokuapp.com/graph?username=birajrai&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=birajrai.birajrai)
