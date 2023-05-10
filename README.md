@@ -2,9 +2,9 @@
 
 I am a self-taught programmer who is currently a student. I've sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 5 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
-- 🔭 I’m currently working on: Private Repos
-- 🌱 I’m currently learning: [Nothing](https://birajrai.github.io)
-- 👯 I’m looking to collaborate on: Open Source projects which make life easier
+- 🔭 Current Discord link: [iHalloween](https://discord.gg/YwAk4pWSa2)
+- 🌱 I’m currently learning: [nothing](https://birajrai.github.io)
+- 👯 I’m looking to collaborate on open source project which makes life easier.
 - 👾 I'm currently working on [meropatra.com](https://meropatra.com)
 - 📫 How to reach me: birajrai.official@gmail.com
 
