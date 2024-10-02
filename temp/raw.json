@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Expo 2024",
+    "description": "A grand event showcasing the latest in technology and innovation.",
+    "location": "San Francisco, CA",
+    "start_date": "2024-10-10",
+    "end_date": "2024-10-12",
+    "preview_image": "https://example.com/images/tech-expo.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Music Fest 2024",
+    "description": "An outdoor music festival featuring top artists from around the world.",
+    "location": "Austin, TX",
+    "start_date": "2024-11-05",
+    "end_date": "2024-11-07",
+    "preview_image": "https://example.com/images/music-fest.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Web Developers Conference",
+    "description": "A conference for web developers to learn, network, and grow.",
+    "location": "New York, NY",
+    "start_date": "2024-12-01",
+    "end_date": "2024-12-03",
+    "preview_image": "https://example.com/images/dev-conference.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Art Expo 2024",
+    "description": "An exhibition of modern art and sculptures from emerging artists.",
+    "location": "Los Angeles, CA",
+    "start_date": "2024-09-15",
+    "end_date": "2024-09-18",
+    "preview_image": "https://example.com/images/art-expo.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fitness Summit 2024",
+    "description": "Join the leading fitness experts for workshops, talks, and training sessions.",
+    "location": "Miami, FL",
+    "start_date": "2024-08-20",
+    "end_date": "2024-08-22",
+    "preview_image": "https://example.com/images/fitness-summit.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Photography Workshop",
+    "description": "A hands-on photography workshop focusing on wildlife and landscapes.",
+    "location": "Yellowstone National Park, WY",
+    "start_date": "2024-07-15",
+    "end_date": "2024-07-18",
+    "preview_image": "https://example.com/images/photo-workshop.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Startup Meetup",
+    "description": "A casual meetup for startup founders and investors to connect.",
+    "location": "Silicon Valley, CA",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-10",
+    "preview_image": "https://example.com/images/startup-meetup.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Book Fair 2024",
+    "description": "A gathering of book lovers, authors, and publishers with book signings and talks.",
+    "location": "Chicago, IL",
+    "start_date": "2024-05-02",
+    "end_date": "2024-05-05",
+    "preview_image": "https://example.com/images/book-fair.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Culinary Arts Festival",
+    "description": "A festival celebrating food with live cooking shows, tastings, and more.",
+    "location": "New Orleans, LA",
+    "start_date": "2024-04-12",
+    "end_date": "2024-04-14",
+    "preview_image": "https://example.com/images/culinary-fest.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Film Festival 2024",
+    "description": "An international film festival featuring premieres, screenings, and Q&A sessions.",
+    "location": "Cannes, France",
+    "start_date": "2024-05-15",
+    "end_date": "2024-05-22",
+    "preview_image": "https://example.com/images/film-festival.jpg"
+  }
+]
