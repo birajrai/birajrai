@@ -3,8 +3,8 @@
         "id": 1,
         "title": "Breaking News: New Technology Innovations",
         "description": "An overview of the latest technology innovations in the industry.",
-        "content": "<p>In recent years, technology has been evolving at an unprecedented pace. Here are some of the key innovations that are shaping our future:</p><h2>1. Artificial Intelligence and Machine Learning</h2><p>AI is transforming industries by automating processes and providing insights.</p><h2>2. Blockchain Technology</h2><p>This technology is revolutionizing data security and transparency.</p><h2>3. Quantum Computing</h2><p>Quantum computing promises to solve complex problems at lightning speed.</p><p>Stay tuned for more updates!</p>",
-        "featured_img": "https://example.com/images/news1.jpg",
+        "content": "<p>In recent years, technology has been evolving at an unprecedented pace. Here are some of the key innovations that are shaping our future:</p>",
+        "featured_img": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
         "tags": "technology, innovation, AI, blockchain",
         "category": "Technology"
     },
@@ -12,8 +12,8 @@
         "id": 2,
         "title": "Sports Update: Championship Highlights",
         "description": "Highlights from the recent championship games.",
-        "content": "<p>The championship games were full of excitement and unexpected twists:</p><ol><li>The final match saw an incredible comeback by the underdogs.</li><li>Star players delivered outstanding performances.</li><li>Fans celebrated in the streets after the victory!</li></ol>",
-        "featured_img": "https://example.com/images/news2.jpg",
+        "content": "<p>The championship games were full of excitement and unexpected twists:</p>",
+        "featured_img": "https://images.pexels.com/photos/1644664/pexels-photo-1644664.jpeg",
         "tags": "sports, championship, highlights",
         "category": "Sports"
     },
@@ -21,8 +21,8 @@
         "id": 3,
         "title": "Health News: The Importance of Mental Well-being",
         "description": "Exploring the significance of mental health awareness.",
-        "content": "<p>Mental health has become a vital aspect of our overall well-being. Here’s why:</p><ol><li>Mental health impacts physical health.</li><li>It’s essential for productivity and happiness.</li><li>Awareness can reduce stigma and encourage help-seeking.</li></ol>",
-        "featured_img": "https://example.com/images/news3.jpg",
+        "content": "<p>Mental health has become a vital aspect of our overall well-being. Here’s why:</p>",
+        "featured_img": "https://images.pexels.com/photos/1170970/pexels-photo-1170970.jpeg",
         "tags": "health, mental health, well-being",
         "category": "Health"
     },
@@ -30,8 +30,8 @@
         "id": 4,
         "title": "Environment: Climate Change Initiatives",
         "description": "Latest initiatives taken to combat climate change.",
-        "content": "<p>Governments and organizations are taking steps to address climate change:</p><ol><li>Renewable energy sources are being promoted.</li><li>Reforestation efforts are underway globally.</li><li>New regulations on emissions are being implemented.</li></ol>",
-        "featured_img": "https://example.com/images/news4.jpg",
+        "content": "<p>Governments and organizations are taking steps to address climate change:</p>",
+        "featured_img": "https://images.pexels.com/photos/2799854/pexels-photo-2799854.jpeg",
         "tags": "environment, climate change, sustainability",
         "category": "Environment"
     },
@@ -39,8 +39,8 @@
         "id": 5,
         "title": "Finance: Market Trends to Watch",
         "description": "Insights into the current market trends.",
-        "content": "<p>The financial markets are always changing. Here are some trends to keep an eye on:</p><ol><li>The rise of cryptocurrencies and their market impact.</li><li>Interest rate changes and their effects on loans and mortgages.</li><li>Sustainable investing is gaining traction.</li></ol>",
-        "featured_img": "https://example.com/images/news5.jpg",
+        "content": "<p>The financial markets are always changing. Here are some trends to keep an eye on:</p>",
+        "featured_img": "https://images.pexels.com/photos/4503937/pexels-photo-4503937.jpeg",
         "tags": "finance, market trends, investing",
         "category": "Finance"
     }
