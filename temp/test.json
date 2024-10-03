@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Breaking News: New Technology Innovations",
+        "description": "An overview of the latest technology innovations in the industry.",
+        "content": {
+            "ops": [
+                { "insert": "In recent years, technology has been evolving at an unprecedented pace. Here are some of the key innovations that are shaping our future:\n\n" },
+                { "insert": "1. Artificial Intelligence and Machine Learning\n", "attributes": { "header": 2 } },
+                { "insert": "AI is transforming industries by automating processes and providing insights.\n\n" },
+                { "insert": "2. Blockchain Technology\n", "attributes": { "header": 2 } },
+                { "insert": "This technology is revolutionizing data security and transparency.\n\n" },
+                { "insert": "3. Quantum Computing\n", "attributes": { "header": 2 } },
+                { "insert": "Quantum computing promises to solve complex problems at lightning speed.\n\n" },
+                { "insert": "Stay tuned for more updates!" }
+            ]
+        },
+        "featured_img": "https://example.com/images/news1.jpg",
+        "tags": "technology, innovation, AI, blockchain",
+        "category": "Technology"
+    },
+    {
+        "id": 2,
+        "title": "Sports Update: Championship Highlights",
+        "description": "Highlights from the recent championship games.",
+        "content": {
+            "ops": [
+                { "insert": "The championship games were full of excitement and unexpected twists:\n\n" },
+                { "insert": "1. The final match saw an incredible comeback by the underdogs.\n\n" },
+                { "insert": "2. Star players delivered outstanding performances.\n\n" },
+                { "insert": "3. Fans celebrated in the streets after the victory!" }
+            ]
+        },
+        "featured_img": "https://example.com/images/news2.jpg",
+        "tags": "sports, championship, highlights",
+        "category": "Sports"
+    },
+    {
+        "id": 3,
+        "title": "Health News: The Importance of Mental Well-being",
+        "description": "Exploring the significance of mental health awareness.",
+        "content": {
+            "ops": [
+                { "insert": "Mental health has become a vital aspect of our overall well-being. Here’s why:\n\n" },
+                { "insert": "1. Mental health impacts physical health.\n\n" },
+                { "insert": "2. It’s essential for productivity and happiness.\n\n" },
+                { "insert": "3. Awareness can reduce stigma and encourage help-seeking." }
+            ]
+        },
+        "featured_img": "https://example.com/images/news3.jpg",
+        "tags": "health, mental health, well-being",
+        "category": "Health"
+    },
+    {
+        "id": 4,
+        "title": "Environment: Climate Change Initiatives",
+        "description": "Latest initiatives taken to combat climate change.",
+        "content": {
+            "ops": [
+                { "insert": "Governments and organizations are taking steps to address climate change:\n\n" },
+                { "insert": "1. Renewable energy sources are being promoted.\n\n" },
+                { "insert": "2. Reforestation efforts are underway globally.\n\n" },
+                { "insert": "3. New regulations on emissions are being implemented." }
+            ]
+        },
+        "featured_img": "https://example.com/images/news4.jpg",
+        "tags": "environment, climate change, sustainability",
+        "category": "Environment"
+    },
+    {
+        "id": 5,
+        "title": "Finance: Market Trends to Watch",
+        "description": "Insights into the current market trends.",
+        "content": {
+            "ops": [
+                { "insert": "The financial markets are always changing. Here are some trends to keep an eye on:\n\n" },
+                { "insert": "1. The rise of cryptocurrencies and their market impact.\n\n" },
+                { "insert": "2. Interest rate changes and their effects on loans and mortgages.\n\n" },
+                { "insert": "3. Sustainable investing is gaining traction." }
+            ]
+        },
+        "featured_img": "https://example.com/images/news5.jpg",
+        "tags": "finance, market trends, investing",
+        "category": "Finance"
+    }
+]
