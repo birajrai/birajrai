@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Breaking News: New Technology Innovations",
         "description": "An overview of the latest technology innovations in the industry.",
-        "content": "<p>In recent years, technology has been evolving at an unprecedented pace. Here are some of the key innovations that are shaping our future:</p>",
+        "content": "<p>In recent years, technology has been evolving at an unprecedented pace. Here are some of the key innovations that are shaping our future:</p><ul><li>Artificial Intelligence (AI): Revolutionizing industries by automating tasks.</li><li>Blockchain Technology: Enhancing security and transparency.</li><li>Internet of Things (IoT): Connecting devices for smarter living.</li><li>5G Technology: Enabling faster internet speeds and better connectivity.</li></ul>",
         "featured_img": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
         "tags": "technology, innovation, AI, blockchain",
         "category": "Technology"
@@ -12,7 +12,7 @@
         "id": 2,
         "title": "Sports Update: Championship Highlights",
         "description": "Highlights from the recent championship games.",
-        "content": "<p>The championship games were full of excitement and unexpected twists:</p>",
+        "content": "<p>The championship games were full of excitement and unexpected twists:</p><ul><li>Team A's last-minute goal secured their victory.</li><li>Player X was awarded MVP for outstanding performance.</li><li>New records were set in multiple events.</li></ul>",
         "featured_img": "https://images.pexels.com/photos/1644664/pexels-photo-1644664.jpeg",
         "tags": "sports, championship, highlights",
         "category": "Sports"
@@ -21,7 +21,7 @@
         "id": 3,
         "title": "Health News: The Importance of Mental Well-being",
         "description": "Exploring the significance of mental health awareness.",
-        "content": "<p>Mental health has become a vital aspect of our overall well-being. Here’s why:</p>",
+        "content": "<p>Mental health has become a vital aspect of our overall well-being. Here’s why:</p><ul><li>Awareness helps reduce stigma around mental health issues.</li><li>Access to resources is crucial for early intervention.</li><li>Healthy coping mechanisms can improve quality of life.</li></ul>",
         "featured_img": "https://images.pexels.com/photos/1170970/pexels-photo-1170970.jpeg",
         "tags": "health, mental health, well-being",
         "category": "Health"
@@ -30,7 +30,7 @@
         "id": 4,
         "title": "Environment: Climate Change Initiatives",
         "description": "Latest initiatives taken to combat climate change.",
-        "content": "<p>Governments and organizations are taking steps to address climate change:</p>",
+        "content": "<p>Governments and organizations are taking steps to address climate change:</p><ul><li>Investing in renewable energy sources.</li><li>Implementing policies to reduce carbon emissions.</li><li>Promoting sustainable agriculture practices.</li></ul>",
         "featured_img": "https://images.pexels.com/photos/2799854/pexels-photo-2799854.jpeg",
         "tags": "environment, climate change, sustainability",
         "category": "Environment"
@@ -39,7 +39,7 @@
         "id": 5,
         "title": "Finance: Market Trends to Watch",
         "description": "Insights into the current market trends.",
-        "content": "<p>The financial markets are always changing. Here are some trends to keep an eye on:</p>",
+        "content": "<p>The financial markets are always changing. Here are some trends to keep an eye on:</p><ul><li>Growth in tech stocks continues to dominate.</li><li>Interest rates are expected to rise.</li><li>ESG investing is gaining popularity.</li></ul>",
         "featured_img": "https://images.pexels.com/photos/4503937/pexels-photo-4503937.jpeg",
         "tags": "finance, market trends, investing",
         "category": "Finance"
