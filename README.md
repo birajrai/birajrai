@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![committers.top badge](https://user-badge.committers.top/nepal/USERNAME.svg)](https://user-badge.committers.top/nepal/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/nepal/USERNAME.svg)](https://user-badge.committers.top/nepal/birajrai)
 <!--
 **birajrai/birajrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
