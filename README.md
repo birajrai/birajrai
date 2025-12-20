@@ -11,8 +11,8 @@ I am a self-taught programmer who is currently a student. I sailed into the worl
 # 🚀💻 Technologies & Tools
 ## Hardware
 <img src="https://raw.githubusercontent.com/birajrai/birajrai/refs/heads/main/hardware/acer-aspire-e5-571.jpg" width="150">
-<img src="https://github.com/birajrai/birajrai/blob/main/hardware/fantech-atom63-keyboard.jpg?raw=true" width="350">
 <img src="https://github.com/birajrai/birajrai/blob/main/hardware/s6x-mouse.jpg?raw=true" width="100">
+<img src="https://github.com/birajrai/birajrai/blob/main/hardware/fantech-atom63-keyboard.jpg?raw=true" width="350">
 
 ## Operating System
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
