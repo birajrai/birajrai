@@ -3,16 +3,17 @@
 # "title" will be displayed as "human name" instead of "name" if specified
 # All defaults values can be overriden per host basis
 hosts:
-  # Example / test root domain
+  - name: minenepal.xyz
+    title: MineNepal
   - name: meropatra.com
     title: Mero Patra
-  - name: gaurav87565.tk
-    title: Gaurav Uchil
+  - name: calypsostudio.tech
+    title: Calypso Studio
 
 # Site configuration
 site:
   # Title
-  title: Biraj Rai
+  title: Biraj Rai | Uptime
   # Favicon / logo
   favicon: https://birajrai.github.io/favicon.io
   # Refresh rate of status images for client

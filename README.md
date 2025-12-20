@@ -1,16 +1,51 @@
-## Hi there 👋
-[![committers.top badge](https://user-badge.committers.top/nepal/USERNAME.svg)](https://user-badge.committers.top/nepal/birajrai)
-<!--
-**birajrai/birajrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there! 👾✨
 
-Here are some ideas to get you started:
+I am a self-taught programmer who is currently a student. I sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 5 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Current Discord link: [MineNepal](https://discord.com/invite/afEaR72sEf)
+- 🌱 I’m currently learning: [nothing](https://birajrai.minenepal.xyz/)
+- 👯 I’m looking to collaborate on an open-source project which makes life easier.
+- 👾 I'm currently working on [calypsostudio.tech](https://calypsostudio.tech/)
+- 📫 How to reach me: biraj@calypsostudio.tech
+
+# 🚀💻 Technologies & Tools
+## Hardware
+![Arch](acer-aspire-e5-571.jpg)
+
+## Operating System
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
+## Tools
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat-square&logo=Eclipse&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-143?style=flat-square&logo=adobe-photoshop)
+![Illustrator](https://img.shields.io/badge/-Illustrator-666?style=flat-square&logo=adobe-illustrator)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
+## Language
+![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
+![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+## Database
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+## Frameworks
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![NextJS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+## Database
+![MariaDB](https://img.shields.io/badge/-MariaDB%20DB-black?style=flat-square&logo=mariadb)
+![MongoDB](https://img.shields.io/badge/-Mongo%20DB-black?style=flat-square&logo=mongodb)
+#### Utilized (Not mastered completely, learned just enough to utilize):
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+#### Looking forward to learn:
+
+ ## ⚙️ Git Stats
+<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=birajrai&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=birajrai&langs_count=5&layout=compact&theme=tokyonight">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317oji4hyzhlilt7dkd23bnzunr4)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=birajrai.birajrai)
