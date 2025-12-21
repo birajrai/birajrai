@@ -10,9 +10,13 @@ I am a self-taught programmer who is currently a student. I sailed into the worl
 
 # 🚀💻 Technologies & Tools
 ## Hardware
-<img src="https://raw.githubusercontent.com/birajrai/birajrai/refs/heads/main/hardware/acer-aspire-e5-571.jpg" width="150">
-<img src="https://github.com/birajrai/birajrai/blob/main/hardware/s6x-mouse.jpg?raw=true" width="100">
-<img src="https://github.com/birajrai/birajrai/blob/main/hardware/fantech-atom63-keyboard.jpg?raw=true" width="350">
+
+<div style="display:flex; gap:10px; align-items:center;">
+  <img src="https://raw.githubusercontent.com/birajrai/birajrai/refs/heads/main/hardware/acer-aspire-e5-571.jpg" width="150">
+  <img src="https://github.com/birajrai/birajrai/blob/main/hardware/s6x-mouse.jpg?raw=true" width="92">
+  <img src="https://github.com/birajrai/birajrai/blob/main/hardware/fantech-atom63-keyboard.jpg?raw=true" width="350">
+</div>
+
 
 ## Operating System
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
@@ -23,18 +27,18 @@ I am a self-taught programmer who is currently a student. I sailed into the worl
 ![Illustrator](https://img.shields.io/badge/-Illustrator-666?style=flat-square&logo=adobe-illustrator)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)
 ## Language
-![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-## Database
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-Java%20Script-black?style=flat-square&logo=javascript)
+![Type Script](https://img.shields.io/badge/Type%20Script-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node%20JS-black?style=flat-square&logo=Node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ## Frameworks
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![NextJS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+## Stylings
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ## Database
 ![MariaDB](https://img.shields.io/badge/-MariaDB%20DB-black?style=flat-square&logo=mariadb)
@@ -46,6 +50,8 @@ I am a self-taught programmer who is currently a student. I sailed into the worl
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 #### Looking forward to learn:
+![Rust](https://img.shields.io/badge/Rust-20232A?style=flat-square&logo=rust&logoColor=61DAFB)
+![GO](https://img.shields.io/badge/GO-20232A?style=flat-square&logo=go&logoColor=61DAFB)
 
  ## ⚙️ Git Stats
 <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=birajrai&show_icons=true&theme=tokyonight"> <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=birajrai&langs_count=5&layout=compact&theme=tokyonight">
