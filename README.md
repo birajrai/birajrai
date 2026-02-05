@@ -1,58 +1,81 @@
-## Hi, I’m Biraj 👋
+<h1 align="center">Hi, I’m Biraj 👋</h1>
+<p align="center">
+Developer building practical tools, communities, and web platforms.
+</p>
 
-Developer focused on building practical tools, communities, and web applications.  
-Currently working on projects around gaming communities and infrastructure.
+<p align="center">
+<a href="https://www.minenepal.xyz/">MineNepal</a> •
+<a href="https://discord.com/invite/afEaR72sEf">Discord</a> •
+<a href="mailto:biraj@minenepal.xyz">Email</a>
+</p>
 
-### 🚧 Current Work
-- Building **[MineNepal](https://www.minenepal.xyz/)** — a Nepali Minecraft & Hytale community
-- Managing the **[MineNepal Discord](https://discord.com/invite/afEaR72sEf)**
-- Exploring new open-source tools and backend systems
+---
 
-### 🌱 Currently Learning
-- College coursework
-- Systems design
-- Performance optimization
+## 📊 GitHub Overview
+<p align="center">
+  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=birajrai&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=birajrai&langs_count=5&layout=compact&theme=tokyonight" />
+</p>
 
-### 🤝 Open to Collaborate On
-- Open-source projects that solve real problems
-- Developer tools
-- Community platforms
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=birajrai&theme=tokyonight" />
+</p>
 
-### 📫 Contact
-- Email: **biraj@minenepal.xyz**
+---
+
+## 🚧 Current Focus
+- Building **[MineNepal](https://www.minenepal.xyz/)** — Nepali Minecraft & Hytale community
+- Running the **MineNepal Discord**
+- Exploring open-source backend tools
 
 ---
 
 ## 🧠 Tech Stack
 
-### Languages
+**Languages**  
 Java • JavaScript • TypeScript • PHP • HTML
 
-### Backend & Frameworks
+**Backend & Frameworks**  
 Node.js • Express.js • Next.js • Nuxt.js
 
-### Styling
+**Styling**  
 TailwindCSS • CSS3 • Sass
 
-### Databases
+**Databases**  
 MariaDB • MongoDB
 
-### Tools
+**Tools**  
 VS Code • Vim • Eclipse • Photoshop • Illustrator
 
-### Currently Exploring
+**Currently Exploring**  
 Python • Kotlin • Redis • React
 
-### Interested in Learning
+**Interested In**  
 Rust • Go
 
 ---
 
-## 📊 GitHub Stats
-<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api?username=birajrai&show_icons=true&theme=tokyonight">
-<img height="160" src="https://github-readme-stats-zeta-virid.vercel.app/api/top-langs/?username=birajrai&langs_count=5&layout=compact&theme=tokyonight">
+## 📈 Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=birajrai&theme=tokyo-night" />
+</p>
 
-[![committers.top badge](https://user-badge.committers.top/nepal_private/birajrai.svg)](https://user-badge.committers.top/nepal_private/birajrai)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=birajrai&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=317oji4hyzhlilt7dkd23bnzunr4)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=birajrai.birajrai)
+---
+
+## 🎧 Now Playing
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317oji4hyzhlilt7dkd23bnzunr4" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://user-badge.committers.top/nepal_private/birajrai">
+    <img src="https://user-badge.committers.top/nepal_private/birajrai.svg" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=birajrai.birajrai" />
+</p>
