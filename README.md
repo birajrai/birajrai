@@ -1,12 +1,12 @@
 ## Hello there! 👾✨
 
-I am a self-taught programmer who is currently a student. I sailed into the world of programming through modding and scripting for the Half-Life Gold Source engine around 5 years ago, and then later moved to backend web development. I've worked with numerous technologies and projects, but I still think of myself as a humble beginner and I want to learn more and get better.
+Hi
 
 - 🔭 Current Discord link: [MineNepal](https://discord.com/invite/afEaR72sEf)
-- 🌱 I’m currently learning: [nothing](https://birajrai.minenepal.xyz/)
-- 👯 I’m looking to collaborate on an open-source project which makes life easier.
-- 👾 I'm currently working on [calypsostudio.tech](https://calypsostudio.tech/)
-- 📫 How to reach me: biraj@calypsostudio.tech
+- 🌱 I’m currently learning: College stuff 😭
+- 👯 I’m looking to collaborate on an open-source project that makes life easier.
+- 👾 I'm currently working on [MineNepal](https://www.minenepal.xyz/)
+- 📫 How to reach me: biraj@minenepal.xyz
 
 # 🚀💻 Technologies & Tools
 ## Hardware
@@ -35,11 +35,12 @@ I am a self-taught programmer who is currently a student. I sailed into the worl
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ## Frameworks
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=flat-square&logo=nuxt.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ## Stylings
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![SASS](https://img.shields.io/badge/-SASS-563D7C?style=flat-square&logo=sass)
 ## Database
 ![MariaDB](https://img.shields.io/badge/-MariaDB%20DB-black?style=flat-square&logo=mariadb)
 ![MongoDB](https://img.shields.io/badge/-Mongo%20DB-black?style=flat-square&logo=mongodb)
