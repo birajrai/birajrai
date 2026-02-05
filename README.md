@@ -7,7 +7,7 @@ Hi
 - 👯 I’m looking to collaborate on an open-source project that makes life easier.
 - 👾 I'm currently working on [MineNepal](https://www.minenepal.xyz/)
 - 📫 How to reach me: biraj@minenepal.xyz
-
+[![committers.top badge](https://user-badge.committers.top/nepal_private/birajrai.svg)](https://user-badge.committers.top/nepal_private/birajrai)
 # 🚀💻 Technologies & Tools
 ## Hardware
 
